@@ -1,5 +1,6 @@
 # JSON-RetrievalApp
 An Android app to retrieve JSON file from http://earthquake.usgs.gov/earthquakes/feed/geojsonp/2.5/week
+
 Depending upon user’s choice, it will perform the following action in the subsequent activity-
 1. using a socket and display Xth line in the JSON file, where X is input by the user
 2. using an AndroidHTTPClient and display Xth line in the JSON file, where X is input by the user
